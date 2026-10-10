@@ -1,4 +1,4 @@
-# -Crypto-currency-checker
+# Crypto currency checker
 
 The cryptocurrency portfolio tracker and trading platform stand as a versatile solution for investors in terms of the digital asset. This platform enables users to oversee and handle their real-time cryptocurrency portfolios. It also incorporates trading features, facilitating users to seamlessly execute purchase and sale orders. In this project security measures are top notch which ensures the safe storage of sensitive financial information by providing a reliable space for executing trades.
 
